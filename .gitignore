@@ -1,0 +1,16 @@
+# 构建产物
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*.pro.user*
+
+# 运行时产物
+shots/*.csv
+*.log
